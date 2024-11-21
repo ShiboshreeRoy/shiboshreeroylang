@@ -27,7 +27,7 @@ function App() {
             ShiboshreeLang
           </GlowingText>
           <a 
-            href="https://github.com/shiboshreeroy/shiboshreeroylang" 
+            href="https://github.com/ShiboshreeRoy/shiboshreeroylang.git" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-green-400 transition-colors"
