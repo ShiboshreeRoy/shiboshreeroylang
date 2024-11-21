@@ -77,6 +77,5 @@ Props:
 
 Shiboshree Roy
 
-## License
-
-MIT
+## Website
+ `Help` https://shiboshreeroylang.netlify.app/
